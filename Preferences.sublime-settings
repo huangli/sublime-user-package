@@ -5,9 +5,9 @@
 	[
 		"Markdown"
 	],
+	"save_on_focus_lost": true,
 	"tab_size": 4,
 	"theme": "Adaptive.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"vintage_start_in_command_mode": true,
-	"save_on_focus_lost": true 
+	"vintage_start_in_command_mode": true
 }
