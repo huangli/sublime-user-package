@@ -1,6 +1,6 @@
 [
     {
-        "keys": ["k", "k"],
+        "keys": ["j", "j"],
         "command": "exit_insert_mode",
         "context":
         [
@@ -9,3 +9,4 @@
         ]
     }
 ]
+
