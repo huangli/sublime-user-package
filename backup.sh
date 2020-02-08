@@ -18,6 +18,7 @@ git push origin master
 ####################################
 
 cd $HOME/
-git add .
+git add .zshrc
+git add README.md
 git commit -m "$(date +%Y-%m-%d) backup zshrc"
 git push origin maste
