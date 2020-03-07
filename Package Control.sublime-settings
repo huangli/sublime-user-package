@@ -9,6 +9,8 @@
 	],
 	"installed_packages":
 	[
+		"JavaScript Completions",
+		"JsValidate",
 		"Markdown Extended",
 		"MarkdownCodeBlockWrapper",
 		"MarkdownEditing",
