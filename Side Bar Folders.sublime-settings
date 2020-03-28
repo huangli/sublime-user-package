@@ -2,6 +2,9 @@
 	"folders":
 	[
 		{
+			"path": "/home/hl/Nutstore Files/Nutstore/Code/shadowsocks"
+		},
+		{
 			"path": "/home/hl/Nutstore Files/Nutstore/Books/Python/Foundations of Python Networking Programming"
 		},
 		{
@@ -12,6 +15,9 @@
 		},
 		{
 			"path": "/home/hl/Documents/Python/shadowsocks-2.9.1"
+		},
+		{
+			"path": "/home/hl/Documents/Python/shadowsocks"
 		},
 		{
 			"path": "/home/hl/Documents/Python Tutorial/demo"
