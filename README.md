@@ -8,6 +8,12 @@
 sh backup.sh
 ```
 
+You could also set alias in zshrc, and then just run ,backupst in shell
+```shell
+alias ,backupst='cd /home/hl/.config/sublime-text-3/Packages/User;sh backup.sh'
+```
+
+
 ### 2. How to setup for the first time
 
 not tested yet
